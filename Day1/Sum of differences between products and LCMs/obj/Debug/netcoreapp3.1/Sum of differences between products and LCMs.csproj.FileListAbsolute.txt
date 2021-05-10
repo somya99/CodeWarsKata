@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.exe
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.deps.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\bin\Debug\netcoreapp3.1\Sum of differences between products and LCMs.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum of differences between products and LCMs\obj\Debug\netcoreapp3.1\Sum of differences between products and LCMs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.exe
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.deps.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csprojAssemblyReference.cache

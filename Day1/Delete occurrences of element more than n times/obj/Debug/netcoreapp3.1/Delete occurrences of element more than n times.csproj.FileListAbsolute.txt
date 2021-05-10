@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.exe
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.deps.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\bin\Debug\netcoreapp3.1\Delete occurrences of element more than n times.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\Delete occurrences of element more than n times\obj\Debug\netcoreapp3.1\Delete occurrences of element more than n times.genruntimeconfig.cache

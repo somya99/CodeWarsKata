@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete occurrences of element more than n times", "Delete occurrences of element more than n times.csproj", "{98FE93EC-6F5E-4A17-A079-3EC3430732EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FE93EC-6F5E-4A17-A079-3EC3430732EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FE93EC-6F5E-4A17-A079-3EC3430732EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FE93EC-6F5E-4A17-A079-3EC3430732EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FE93EC-6F5E-4A17-A079-3EC3430732EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D901EE-EBD2-469F-954A-78AAE1083EAE}
+	EndGlobalSection
+EndGlobal
