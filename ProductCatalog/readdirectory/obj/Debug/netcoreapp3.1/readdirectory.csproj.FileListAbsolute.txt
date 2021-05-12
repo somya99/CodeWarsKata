@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.exe
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.deps.json
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.dll
+C:\Users\S S INFOTECH\source\repos\readdirectory\bin\Debug\netcoreapp3.1\readdirectory.pdb
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.dll
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.pdb
+C:\Users\S S INFOTECH\source\repos\readdirectory\obj\Debug\netcoreapp3.1\readdirectory.genruntimeconfig.cache
