@@ -1,0 +1,34 @@
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.exe
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.deps.json
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.dll
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.dll
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategory.dll
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategory.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.exe
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.deps.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategoryCatalog.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategory.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\bin\Debug\netcoreapp3.1\ProductCategory.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.dll
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.pdb
+C:\Users\S S INFOTECH\source\repos\Codewars Kata\ProductCatalog\readdirectory\ProductCategoryCatalog\obj\Debug\netcoreapp3.1\ProductCategoryCatalog.genruntimeconfig.cache
